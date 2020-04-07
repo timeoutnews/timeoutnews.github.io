@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3ff2e942410eb0ff4feba9537ce0b6b1",
+    "revision": "52c21bcaee94bc8bd6180231bf3f8e41",
     "url": "/index.html"
   },
   {
-    "revision": "822c959e6226bd9f50a7",
-    "url": "/static/css/main.0b1d8aa0.chunk.css"
+    "revision": "b2452f1ec981fd93f9cf",
+    "url": "/static/css/main.ed2ba400.chunk.css"
   },
   {
     "revision": "c537b2098a11374642c0",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.2352bb35.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "822c959e6226bd9f50a7",
-    "url": "/static/js/main.4551f3c6.chunk.js"
+    "revision": "b2452f1ec981fd93f9cf",
+    "url": "/static/js/main.bb33131c.chunk.js"
   },
   {
     "revision": "fdceeae38310c6ea805d",
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/heat_map_europe.77e43999.jpg"
   },
   {
-    "revision": "cda77cbf59a48c774816849f6d318f9c",
-    "url": "/static/media/logo.cda77cbf.png"
+    "revision": "12d74ab42d9f2a0f1e0ce163e70d0437",
+    "url": "/static/media/logo.12d74ab4.png"
   },
   {
     "revision": "ddd51dc8b8517d5ca8edf95b714b053b",

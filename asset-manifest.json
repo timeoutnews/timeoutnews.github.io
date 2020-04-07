@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.0b1d8aa0.chunk.css",
-    "main.js": "/static/js/main.4551f3c6.chunk.js",
-    "main.js.map": "/static/js/main.4551f3c6.chunk.js.map",
+    "main.css": "/static/css/main.ed2ba400.chunk.css",
+    "main.js": "/static/js/main.bb33131c.chunk.js",
+    "main.js.map": "/static/js/main.bb33131c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.bc8a832e.js",
     "runtime-main.js.map": "/static/js/runtime-main.bc8a832e.js.map",
     "static/js/2.2352bb35.chunk.js": "/static/js/2.2352bb35.chunk.js",
     "static/js/2.2352bb35.chunk.js.map": "/static/js/2.2352bb35.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.df52c8fd6f620aaf29705d9786f138a8.js": "/precache-manifest.df52c8fd6f620aaf29705d9786f138a8.js",
+    "precache-manifest.908bc85e8a17a52a4ec1c8aa60fe4f41.js": "/precache-manifest.908bc85e8a17a52a4ec1c8aa60fe4f41.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.0b1d8aa0.chunk.css.map": "/static/css/main.0b1d8aa0.chunk.css.map",
+    "static/css/main.ed2ba400.chunk.css.map": "/static/css/main.ed2ba400.chunk.css.map",
     "static/js/2.2352bb35.chunk.js.LICENSE.txt": "/static/js/2.2352bb35.chunk.js.LICENSE.txt",
     "static/media/Picture_1.jpg": "/static/media/Picture_1.82db9ce0.jpg",
     "static/media/Thank-U-sign.jpg": "/static/media/Thank-U-sign.f30790c5.jpg",
     "static/media/heat_map_europe.jpg": "/static/media/heat_map_europe.77e43999.jpg",
-    "static/media/logo.png": "/static/media/logo.cda77cbf.png",
+    "static/media/logo.png": "/static/media/logo.12d74ab4.png",
     "static/media/new_york_city.jpg": "/static/media/new_york_city.ddd51dc8.jpg",
     "static/media/woman-smartphone.jpg": "/static/media/woman-smartphone.09ce7f3c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.bc8a832e.js",
     "static/js/2.2352bb35.chunk.js",
-    "static/css/main.0b1d8aa0.chunk.css",
-    "static/js/main.4551f3c6.chunk.js"
+    "static/css/main.ed2ba400.chunk.css",
+    "static/js/main.bb33131c.chunk.js"
   ]
 }
