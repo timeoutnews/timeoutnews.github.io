@@ -1,0 +1,13 @@
+.app {
+  min-width: 100vw;
+  min-height: 100vh;
+  background: #f2f3f4;
+}
+
+.headerContainer {
+  margin-top: 4vw;
+}
+
+.scrollNews {
+  margin: 4vw 0;
+}
