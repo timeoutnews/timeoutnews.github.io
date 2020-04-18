@@ -1,28 +1,43 @@
 {
   "files": {
-    "main.css": "/static/css/main.9b204cde.chunk.css",
-    "main.js": "/static/js/main.6bae7954.chunk.js",
-    "main.js.map": "/static/js/main.6bae7954.chunk.js.map",
+    "main.css": "/static/css/main.e886fb17.chunk.css",
+    "main.js": "/static/js/main.c8ccee03.chunk.js",
+    "main.js.map": "/static/js/main.c8ccee03.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.bc8a832e.js",
     "runtime-main.js.map": "/static/js/runtime-main.bc8a832e.js.map",
     "static/js/2.cd53690f.chunk.js": "/static/js/2.cd53690f.chunk.js",
     "static/js/2.cd53690f.chunk.js.map": "/static/js/2.cd53690f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b2941311cf99ce896e80388656b900c2.js": "/precache-manifest.b2941311cf99ce896e80388656b900c2.js",
+    "precache-manifest.d93e67de49f7acb195e287d06b87dce0.js": "/precache-manifest.d93e67de49f7acb195e287d06b87dce0.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.9b204cde.chunk.css.map": "/static/css/main.9b204cde.chunk.css.map",
+    "static/css/main.e886fb17.chunk.css.map": "/static/css/main.e886fb17.chunk.css.map",
     "static/js/2.cd53690f.chunk.js.LICENSE.txt": "/static/js/2.cd53690f.chunk.js.LICENSE.txt",
     "static/media/Picture_1.jpg": "/static/media/Picture_1.82db9ce0.jpg",
     "static/media/Thank-U-sign.jpg": "/static/media/Thank-U-sign.f30790c5.jpg",
+    "static/media/canada_curve.png": "/static/media/canada_curve.78dcd99d.png",
+    "static/media/capt_tom.jpg": "/static/media/capt_tom.7d6a0866.jpg",
+    "static/media/coral_reefs.jpg": "/static/media/coral_reefs.558c824f.jpg",
+    "static/media/deserted_construction_naples.png": "/static/media/deserted_construction_naples.e15064df.png",
+    "static/media/dior.png": "/static/media/dior.f0c8fb9f.png",
     "static/media/heat_map_europe.jpg": "/static/media/heat_map_europe.77e43999.jpg",
+    "static/media/himalayas.jpg": "/static/media/himalayas.575d9f95.jpg",
+    "static/media/lady_gaga.jpg": "/static/media/lady_gaga.f8f04717.jpg",
     "static/media/logo.png": "/static/media/logo.12d74ab4.png",
+    "static/media/man_holding_camera.jpg": "/static/media/man_holding_camera.64e20c71.jpg",
+    "static/media/mom_with_newborn.png": "/static/media/mom_with_newborn.dd5579ab.png",
     "static/media/new_york_city.jpg": "/static/media/new_york_city.ddd51dc8.jpg",
-    "static/media/woman-smartphone.jpg": "/static/media/woman-smartphone.09ce7f3c.jpg"
+    "static/media/roche_pharmaceutical.jpg": "/static/media/roche_pharmaceutical.7a1a8b8c.jpg",
+    "static/media/rough_sleepers.jpg": "/static/media/rough_sleepers.1b3068e5.jpg",
+    "static/media/saliva-tests.jpg": "/static/media/saliva-tests.3bde7918.jpg",
+    "static/media/wagamama.jpg": "/static/media/wagamama.0444c8d1.jpg",
+    "static/media/woman-smartphone.jpg": "/static/media/woman-smartphone.09ce7f3c.jpg",
+    "static/media/woman_in_lab.png": "/static/media/woman_in_lab.4b23d3b3.png",
+    "static/media/wuhan_airport.jpg": "/static/media/wuhan_airport.72765eb6.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.bc8a832e.js",
     "static/js/2.cd53690f.chunk.js",
-    "static/css/main.9b204cde.chunk.css",
-    "static/js/main.6bae7954.chunk.js"
+    "static/css/main.e886fb17.chunk.css",
+    "static/js/main.c8ccee03.chunk.js"
   ]
 }
