@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "86beaecad07529b1ed400a7674646f8b",
+    "revision": "f81ee4d1d45e9465e1a0f40514138067",
     "url": "/index.html"
   },
   {
-    "revision": "e3c6de441861ed0dc052",
-    "url": "/static/css/main.e886fb17.chunk.css"
+    "revision": "b17ea188aa267852cecd",
+    "url": "/static/css/main.ee8dbba5.chunk.css"
   },
   {
-    "revision": "2d67f12424d82f05e09a",
-    "url": "/static/js/2.cd53690f.chunk.js"
+    "revision": "41f853ca9f342309f294",
+    "url": "/static/js/2.b8094f02.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/static/js/2.cd53690f.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.b8094f02.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e3c6de441861ed0dc052",
-    "url": "/static/js/main.c8ccee03.chunk.js"
+    "revision": "b17ea188aa267852cecd",
+    "url": "/static/js/main.9eada376.chunk.js"
   },
   {
     "revision": "fdceeae38310c6ea805d",
@@ -44,6 +44,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/coral_reefs.558c824f.jpg"
   },
   {
+    "revision": "a41f4f54d278ea9be2fa232b72da8395",
+    "url": "/static/media/covid_recoveries.a41f4f54.jpg"
+  },
+  {
     "revision": "e15064df713896692ae492d9a04a799f",
     "url": "/static/media/deserted_construction_naples.e15064df.png"
   },
@@ -60,6 +64,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/himalayas.575d9f95.jpg"
   },
   {
+    "revision": "4b9a8bd3e80ff96b87d23f505df5533a",
+    "url": "/static/media/islamic_community_food.4b9a8bd3.png"
+  },
+  {
     "revision": "f8f047172d28549b98e55ec185653245",
     "url": "/static/media/lady_gaga.f8f04717.jpg"
   },
@@ -70,6 +78,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "64e20c718a61d690697adab77542cf31",
     "url": "/static/media/man_holding_camera.64e20c71.jpg"
+  },
+  {
+    "revision": "7da65ccf7f7006177e21efcd7c0d6d78",
+    "url": "/static/media/michelle_and_barack_obama.7da65ccf.jpg"
   },
   {
     "revision": "dd5579ab20ad7fa108e27e3c2db3a913",
@@ -90,6 +102,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3bde791809d0048773394ea4af6fe730",
     "url": "/static/media/saliva-tests.3bde7918.jpg"
+  },
+  {
+    "revision": "e370e9855d38aa4d18784654f6f918ba",
+    "url": "/static/media/tree_in_middle.e370e985.png"
   },
   {
     "revision": "0444c8d11b38eeb35039ed8304d6f951",
