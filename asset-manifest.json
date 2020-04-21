@@ -1,17 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.ee8dbba5.chunk.css",
-    "main.js": "/static/js/main.9eada376.chunk.js",
-    "main.js.map": "/static/js/main.9eada376.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.bc8a832e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.bc8a832e.js.map",
-    "static/js/2.b8094f02.chunk.js": "/static/js/2.b8094f02.chunk.js",
-    "static/js/2.b8094f02.chunk.js.map": "/static/js/2.b8094f02.chunk.js.map",
+    "main.css": "/static/css/main.4b472304.chunk.css",
+    "main.js": "/static/js/main.83169903.chunk.js",
+    "main.js.map": "/static/js/main.83169903.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2e957a44.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2e957a44.js.map",
+    "static/css/2.caf76492.chunk.css": "/static/css/2.caf76492.chunk.css",
+    "static/js/2.d032f145.chunk.js": "/static/js/2.d032f145.chunk.js",
+    "static/js/2.d032f145.chunk.js.map": "/static/js/2.d032f145.chunk.js.map",
+    "static/js/3.003fc0e5.chunk.js": "/static/js/3.003fc0e5.chunk.js",
+    "static/js/3.003fc0e5.chunk.js.map": "/static/js/3.003fc0e5.chunk.js.map",
+    "static/css/4.ec817b90.chunk.css": "/static/css/4.ec817b90.chunk.css",
+    "static/js/4.c2ab980a.chunk.js": "/static/js/4.c2ab980a.chunk.js",
+    "static/js/4.c2ab980a.chunk.js.map": "/static/js/4.c2ab980a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.81940e4b8e49012a005341c2c638d696.js": "/precache-manifest.81940e4b8e49012a005341c2c638d696.js",
+    "precache-manifest.75a0b17df97c99780f6610eaa44c15a7.js": "/precache-manifest.75a0b17df97c99780f6610eaa44c15a7.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.ee8dbba5.chunk.css.map": "/static/css/main.ee8dbba5.chunk.css.map",
-    "static/js/2.b8094f02.chunk.js.LICENSE.txt": "/static/js/2.b8094f02.chunk.js.LICENSE.txt",
+    "static/css/2.caf76492.chunk.css.map": "/static/css/2.caf76492.chunk.css.map",
+    "static/css/4.ec817b90.chunk.css.map": "/static/css/4.ec817b90.chunk.css.map",
+    "static/css/main.4b472304.chunk.css.map": "/static/css/main.4b472304.chunk.css.map",
+    "static/js/3.003fc0e5.chunk.js.LICENSE.txt": "/static/js/3.003fc0e5.chunk.js.LICENSE.txt",
     "static/media/Picture_1.jpg": "/static/media/Picture_1.82db9ce0.jpg",
     "static/media/Thank-U-sign.jpg": "/static/media/Thank-U-sign.f30790c5.jpg",
     "static/media/canada_curve.png": "/static/media/canada_curve.78dcd99d.png",
@@ -39,9 +47,9 @@
     "static/media/wuhan_airport.jpg": "/static/media/wuhan_airport.72765eb6.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bc8a832e.js",
-    "static/js/2.b8094f02.chunk.js",
-    "static/css/main.ee8dbba5.chunk.css",
-    "static/js/main.9eada376.chunk.js"
+    "static/js/runtime-main.2e957a44.js",
+    "static/js/3.003fc0e5.chunk.js",
+    "static/css/main.4b472304.chunk.css",
+    "static/js/main.83169903.chunk.js"
   ]
 }
